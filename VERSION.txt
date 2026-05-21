@@ -1,3 +1,3 @@
 HKU ECE Passivity-Based Stability Workbench
-Version: 3.0-professional-no-grounding
+Version: 3.0
 Date: 2026-04-21

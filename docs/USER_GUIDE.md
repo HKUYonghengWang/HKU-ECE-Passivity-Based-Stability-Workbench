@@ -1,8 +1,8 @@
-# User Guide
+# HKU ECE Passivity-Based Stability Workbench: User Guide
 
 ## Purpose
 
-HKU ECE Passivity-Based Stability Workbench is a MATLAB/MATPOWER research prototype for decentralized passivity-based small-signal stability screening and virtual-shunt passivation of converter-dominated power systems.
+HKU ECE Passivity-Based Stability Workbench is a MATLAB/MATPOWER research prototype for passivity-based small-signal stability screening and virtual-shunt passivation of converter-dominated power systems.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ HKU ECE Passivity-Based Stability Workbench is a MATLAB/MATPOWER research protot
 
 ```matlab
 addpath(genpath('path_to_matpower'));
-addpath('path_to/HKU_ECE_PassivityWorkbench_v3.0');
+addpath(genpath('path_to/HKU_ECE_PassivityWorkbench_v3.0'));
 launch_hku_passivity_workbench
 ```
 
@@ -32,7 +32,7 @@ Recommended first run:
 
 ```matlab
 addpath(genpath('path_to_matpower'));
-addpath('path_to/HKU_ECE_PassivityWorkbench_v3.0');
+addpath(genpath('path_to/HKU_ECE_PassivityWorkbench_v3.0'));
 run('examples/run_case39_no_ground_demo.m')
 ```
 

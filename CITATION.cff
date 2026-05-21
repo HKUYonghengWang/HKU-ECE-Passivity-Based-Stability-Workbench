@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: HKU ECE Passivity-Based Stability Workbench
-message: If you use this software, please cite the associated passivity-based decentralized stability study.
+message: If you use this software, please cite the associated passivity-based decentralized stability study and this software package.
 authors:
   - family-names: Wang
     given-names: Yongheng
@@ -8,5 +8,9 @@ authors:
     given-names: Xiemin
   - family-names: Liu
     given-names: Tao
-version: 3.0-professional-no-grounding
+version: "3.0"
+date-released: "2026-04-21"
+repository-code: "https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench"
+url: "https://hkuyonghengwang.github.io/software.html"
+abstract: "A MATLAB/MATPOWER research prototype for passivity-based small-signal stability screening and virtual-shunt passivation of converter-dominated power systems."
 license: MIT
