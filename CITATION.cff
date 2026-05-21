@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: HKU ECE Passivity-Based Stability Workbench
+message: If you use this software, please cite the associated passivity-based decentralized stability study.
+authors:
+  - family-names: Wang
+    given-names: Yongheng
+  - family-names: Mo
+    given-names: Xiemin
+  - family-names: Liu
+    given-names: Tao
+version: 3.0-professional-no-grounding
+license: MIT
